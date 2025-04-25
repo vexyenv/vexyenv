@@ -6,7 +6,7 @@
 ### 🌟 Quick Highlights
 - 🔍 Exploring programming like an enchanted quest  
 - 🧱 Writing logic from scratch to understand every brick  
-- 📚 Recently learned `for` loops, next up: `charAt()` & string handling  
+- 📚 Recently learned `for` loops, next up: Methods
 - 🧪 Also starting to peek into the world of C++
 
 ---
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vexyenv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
