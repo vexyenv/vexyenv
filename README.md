@@ -1,5 +1,10 @@
 # 💫 About Me:
-🧙‍♂️ Curious mind wandering the code forest<br>💻 Self-taught Java developer<br>🧱 Focused on logic-building and problem-solving<br>🔄 Currently exploring loops, string logic, and project structure<br>✨ Passionate about building meaningful & fun stuff<br>🧠 Learning something new every single day
+🧙‍♂️ Curious mind wandering the code forest<br>
+💻 Self-taught Java developer<br>
+🧱 Focused on logic-building and problem-solving<br>
+🔄 Currently exploring loops, string logic, arrays, and project structure<br>
+✨ Passionate about building meaningful & fun stuff<br>
+🧠 Learning something new every single day
 
 
 # 💻 Tech Stack:
