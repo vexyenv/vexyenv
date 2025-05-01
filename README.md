@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧙‍♂️ Curious mind wandering the code forest<br>
+🧙‍♂️ Curiously wandering the code world<br>
 💻 Self-taught Java developer<br>
 🧱 Focused on logic-building and problem-solving<br>
 🔄 Currently exploring loops, string logic, arrays, and project structure<br>
