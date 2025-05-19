@@ -1,14 +1,13 @@
 ---
 
 # 💫 About Me:
+👋 Hi there, I am Shaurya Pratap Singh<br>
 🧙‍♂️ Curiously wandering the code world<br>
 💻 Self-taught Java developer<br>
 🧱 Focused on logic-building and problem-solving<br>
 🔄 Currently exploring loops, string logic, arrays, and project structure<br>
 ✨ Passionate about building meaningful & fun stuff<br>
 🧠 Learning something new every single day
-
-(Shaurya Pratap Singh) 
 
 ---
 
