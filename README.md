@@ -8,6 +8,8 @@
 ✨ Passionate about building meaningful & fun stuff<br>
 🧠 Learning something new every single day
 
+(Shaurya Pratap Singh) 
+
 ---
 
 # 💻 Tech Stack:
