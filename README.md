@@ -1,29 +1,47 @@
----
+# 👋 Hi, I'm Shaurya Pratap Singh
 
-# 💫 About Me:
-👋 Hi there, I am Shaurya Pratap Singh<br>
-🧙‍♂️ Curiously wandering the code world<br>
-💻 Self-taught Java developer<br>
-🧱 Focused on logic-building and problem-solving<br>
-🔄 Currently exploring loops, string logic, arrays, and project structure<br>
-✨ Passionate about building meaningful & fun stuff<br>
-🧠 Learning something new every single day
+![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
 
----
+## 🧭 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+I'm a self-taught Java developer with a passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
 
----
+- Mastering Java and web development
+- Exploring data structures and algorithms
+- Building a personal portfolio to showcase my work
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vexyenv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vexyenv&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
----
+- **Languages:** Java, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vexyenv&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+## 📊 LeetCode Stats
 
----
+![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/vexyenv?theme=dark&bgColor=282828)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=radical)
+
+## 📈 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vexyenv&theme=radical&column=4)
+
+## 🌐 Visitor Count
+
+![Profile Views](https://profile-counter.glitch.me/vexyenv/count.svg)
+
+## 📫 Contact Me
+
+Feel free to reach out via email: [your.email@example.com](mailto:your.email@example.com)
+
+## ⚡ Fun Facts
+
+- 🎯 Aspiring to work internationally and build my own startup
+- 🧠 Enjoy tackling challenging coding problems
+- 🎵 Music enthusiast and avid reader
