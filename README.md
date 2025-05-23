@@ -2,6 +2,8 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
 
+---
+
 ## 🧭 About Me
 
 I'm a self-taught Java developer with a passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
@@ -9,6 +11,8 @@ I'm a self-taught Java developer with a passion for problem-solving and building
 - Mastering Java and web development
 - Exploring data structures and algorithms
 - Building a personal portfolio to showcase my work
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,22 +29,26 @@ I'm a self-taught Java developer with a passion for problem-solving and building
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+---
+
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/vexyenv?theme=dark&bgColor=282828)
+
+---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=radical)
 
+---
+
 ## 📈 Contribution Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
 
-## 🌐 Visitor Count
-
-![Profile Views](https://profile-counter.glitch.me/vexyenv/count.svg)
+---
 
 ## ⚡ Fun Facts
 
