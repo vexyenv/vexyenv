@@ -12,8 +12,18 @@ I'm a self-taught Java developer with a passion for problem-solving and building
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify
+### Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 📊 LeetCode Stats
 
@@ -28,17 +38,9 @@ I'm a self-taught Java developer with a passion for problem-solving and building
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vexyenv&theme=radical&column=4)
-
 ## 🌐 Visitor Count
 
 ![Profile Views](https://profile-counter.glitch.me/vexyenv/count.svg)
-
-## 📫 Contact Me
-
-Feel free to reach out via email: [your.email@example.com](mailto:your.email@example.com)
 
 ## ⚡ Fun Facts
 
