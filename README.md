@@ -8,9 +8,9 @@
 
 I'm a self-taught Java developer with a passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
 
-- Mastering Java and web development
-- Exploring data structures and algorithms
-- Building a personal portfolio to showcase my work
+- Mastering Java and Web Development
+- Exploring core concepts of Java and WebDev
+- Building logic for problem solving
 
 ---
 
