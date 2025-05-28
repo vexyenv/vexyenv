@@ -53,5 +53,5 @@ I'm a self-taught Java developer with a passion for problem-solving and building
 ## ⚡ Fun Facts
 
 - 🎯 Aspiring to work internationally and build my own startup
-- 🧠 Enjoy tackling challenging coding problems
+- 🧠 Enjoy solving coding problems
 - 🎵 Music enthusiast and avid reader
