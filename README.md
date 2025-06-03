@@ -6,10 +6,10 @@
 
 ## 🧭 About Me
 
-I'm a self-taught Java developer with a passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
+I'm constantly learning new languages with passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
 
-- Mastering Java and Web Development
-- Exploring core concepts of Java and WebDev
+- Mastering Python and Java
+- Exploring core concepts of Python and Java
 - Building logic for problem solving
 
 ---
