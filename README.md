@@ -6,7 +6,7 @@
 
 ## 🧭 About Me
 
-I'm constantly learning new languages with passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
+Constantly learning new technologies with passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
 
 - Mastering Python and Java
 - Exploring core concepts of Python and Java
