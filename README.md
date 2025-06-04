@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaurya Pratap Singh
 
-![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
+![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=200)
 
 ---
 
@@ -53,6 +53,6 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ## ⚡ Fun Facts
 
-- 🎯 Aspiring to work internationally and build my own startup
+- 🎯 Aspiring to wo and build my own startup
 - 🧠 Enjoy solving coding problems
 - 🎵 Music enthusiast and avid reader
