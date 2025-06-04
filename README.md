@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaurya Pratap Singh
 
-![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=200)
+![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ---
 
