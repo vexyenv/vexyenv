@@ -47,7 +47,7 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ## 📈 Contribution Activity
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
 
 ---
 
