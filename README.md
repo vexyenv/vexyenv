@@ -53,6 +53,6 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ## ⚡ Fun Facts
 
-- 🎯 Aspiring to wo and build my own startup
+- 🎯 Aspiring to build my own startup
 - 🧠 Enjoy solving coding problems
 - 🎵 Music enthusiast and avid reader
