@@ -1,1 +1,58 @@
-![Metrics](https://metrics.lecoq.io/vexyenv?template=classic&projects=1&languages=1&isocalendar=1&habits=1&repositories=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta)
+# 👋 Hi, I'm Shaurya Pratap SinghAdd commentMore actions
+
+![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
+
+---
+
+## 🧭 About Me
+
+Constantly learning new technologies with passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
+
+- Mastering Python and Java
+- Exploring core concepts of Python and Java
+- Building logic for problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/vexyenv?theme=dark&bgColor=282828)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
+
+---
+
+## ⚡ Fun Facts
+
+- 🎯 Aspiring to build my own startup
+- 🧠 Enjoy solving coding problems
+- 🎵 Music enthusiast and avid reader
