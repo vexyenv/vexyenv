@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shaurya Pratap SinghAdd commentMore actions
+# 👋 Hi, I'm Shaurya Pratap Singh
 
 ![Profile Banner](https://capsule-render.vercel.app/api?text=Vexyenv&animation=fadeIn&type=waving&color=gradient&height=100)
 
