@@ -40,8 +40,7 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=radical)
+
 
 ---
 
