@@ -6,29 +6,43 @@
 
 ## 🧭 About Me
 
-Constantly learning new technologies with passion for problem-solving and building meaningful projects. Currently, I'm focusing on:
+Aspiring **Spacecraft & Robotics Engineer** focused on combining software, hardware, and real-world physics to build autonomous, intelligent, and orbital systems.
 
-- Mastering Python and Java
-- Exploring core concepts of Python and Java
-- Building logic for problem solving
+Currently working on:
+
+- 🛰️ Satellite systems and orbit simulation  
+- 🤖 Robotics with Arduino, Python, and sensors  
+- 📡 Embedded telemetry and control  
+- 🛠️ Hardware design and simulation tooling
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-000000?style=flat&logo=kicad&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-000000?style=flat&logo=freecad&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🛰️ Focus Areas
+
+- 📐 Orbit & trajectory simulation with **GMAT** and **Skyfield**
+- 🔌 Embedded systems with **Arduino** & **serial communication**
+- 🧠 Control systems with **Python-Control**, PID design
+- 🧪 PCB & schematic design in **KiCad**
+- 🛠️ Mechanical modeling with **FreeCAD**
 
 ---
 
@@ -40,8 +54,8 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ## 📈 GitHub Stats
 
-![Vexyenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=radical)
+![Vexyenv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vexyenv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexyenv&layout=compact&theme=tokyonight)
 
 ---
 
@@ -51,8 +65,20 @@ Constantly learning new technologies with passion for problem-solving and buildi
 
 ---
 
+## 🧠 Project Highlights
+
+- 🛰️ **LEO Orbit Simulator** (Python + Skyfield)  
+- 🤖 **Autonomous Line Following Robot** (Arduino + IR sensors)  
+- 📡 **Serial Telemetry Monitor** (Python + pyserial)  
+- 🛠️ **Custom PCB for Sensor Interface** (KiCad)  
+
+> 💡 All projects will be available soon in this profile. Stay tuned!
+
+---
+
 ## ⚡ Fun Facts
 
-- 🎯 Aspiring to build my own startup
-- 🧠 Solving coding problems
-- 🎵 Music enthusiast and avid reader
+- 🎯 Dreaming of working with NASA, ISRO, or SpaceX  
+- 🚀 Working toward launching my own CubeSat  
+- 🧠 Loves math, logic, and real-world problem solving  
+- 🎵 Music and astronomy fuel my night coding sessions  
