@@ -59,12 +59,6 @@ Currently working on:
 
 ---
 
-## 📈 Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vexyenv&theme=radical)
-
----
-
 ## 🧠 Project Highlights
 
 - 🛰️ **LEO Orbit Simulator** (Python + Skyfield)  
